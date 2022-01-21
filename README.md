@@ -19,3 +19,11 @@ Code woking to Python 3.9 and to  latest version libraries on the times 2022.01.
 <b>requests</b> - pip install requests <br>
 <b>beautifulsoup</b> - pip install beautifulsoup4 <br>
 
+# Folders
+"Electronic" - two photos devices for edit images. <br> 
+"config" - in him data to output stats bot. <br>
+"download_photo" - need for download photo which how document (without compression) to bot.
+
+# File in "config" 
+"Number Page" - numbers downloads pages from sites. 
+"Stats" - 
