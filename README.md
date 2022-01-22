@@ -26,7 +26,7 @@ Code woking to Python 3.9 and to  latest version libraries on the times 2022.01.
 "photos" - saved download photos.<br>
 "processed_photo" - seved processed photo.<br>
 
-# File in "config" 
+# Files in "config" 
 "Number Page" - numbers downloads pages from sites. <br>
 "Stats" - stores data about successful downloads file and not successful downloads file and like, dislike photo. <br>
 "IDPhotoNow" - stores data about id photo which need set in name photo, at downloads photos (at saved photos in a folder - "photos").<br>
