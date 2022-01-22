@@ -6,10 +6,14 @@ In the near future I want to develop a user-friendly interface for using the bot
 
 # Fast start
 
-1. download repository <br>
+1. Download repository <br>
 `git clone https://github.com/Karabok-coder/Telegram-wallpaper-bot.git`
 2. Navigate to the directory <br>
-`cd `
+`cd Telegram-wallpaper-bot`
+3. Start main.py <br>
+`python main.py`
+<br>
+
 In folder with main.py open <b>"constants.py"</b> and change <b>"token"</b> from you.
 Him need get from <b>@BotFather</b> in the Telegram.
 
