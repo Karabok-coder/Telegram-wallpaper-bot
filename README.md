@@ -5,6 +5,11 @@ Create bot only to Russian with using library the pyTelegramBotAPI. Processing i
 In the near future I want to develop a user-friendly interface for using the bot.
 
 # Fast start
+
+1. download repository <br>
+`git clone https://github.com/Karabok-coder/Telegram-wallpaper-bot.git`
+2. Navigate to the directory <br>
+`cd `
 In folder with main.py open <b>"constants.py"</b> and change <b>"token"</b> from you.
 Him need get from <b>@BotFather</b> in the Telegram.
 
