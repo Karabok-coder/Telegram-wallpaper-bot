@@ -20,10 +20,15 @@ Code woking to Python 3.9 and to  latest version libraries on the times 2022.01.
 <b>beautifulsoup</b> - pip install beautifulsoup4 <br>
 
 # Folders
-"Electronic" - two photos devices for edit images. <br> 
 "config" - in him data to output stats bot. <br>
-"download_photo" - need for download photo which how document (without compression) to bot.
+"download_photo" - need for download photo which how document (without compression) to bot. <br>
+"electronic" - two photos devices for edit images. <br>
+"photos" - saved download photos.<br>
+"processed_photo" - seved processed photo.<br>
 
 # File in "config" 
-"Number Page" - numbers downloads pages from sites. 
-"Stats" - 
+"Number Page" - numbers downloads pages from sites. <br>
+"Stats" - stores data about successful downloads file and not successful downloads file and like, dislike photo. <br>
+"IDPhotoNow" - stores data about id photo which need set in name photo, at downloads photos (at saved photos in a folder - "photos").<br>
+"IDPhotoChannel" - stores number about photo which set in name photo, at a send in channel. <br>
+"Channel Target" - stores number channel where sended photos. <br>
