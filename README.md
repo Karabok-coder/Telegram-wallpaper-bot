@@ -10,7 +10,7 @@ Him need get from <b>@BotFather</b> in the Telegram.
 
 Code woking to Python 3.9 and to  latest version libraries on the times 2022.01.21.
 
-# Libraries:
+# Libraries
 <b>PIL</b> - pip install Pillow <br>
 <b>glob</b> - pip install glob2 <br>
 <b>re</b> - standart librari Python <br>
